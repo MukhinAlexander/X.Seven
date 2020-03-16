@@ -1,0 +1,29 @@
+@font-face {
+font-family: "Proxima Nova";
+//src: url("../fonts/ProximaNova-Bold.eot");
+src: url("../fonts/ProximaNova-SemiBold.woff");
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: "Gotham Pro Light";
+//src: url("../fonts/GothamPro-Light.eot");
+src: url("../fonts/GothamPro-Light.woff");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "Gotham Pro Light Italic";
+src: url("../fonts/GothamPro-LightItalic.woff");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "PT Sans Regular";
+src: url("../fonts/PTSans-Regular.woff");
+font-weight: normal;
+font-style: normal;
+}
